@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/CSDS 281
+vcounter
+Z1 !s110 1674784216
+!i10b 1
+!s100 WUB:8[coESShfMMIhMXoh2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVLB@T`DaMEoe9`HLH6o=W0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1674069465
+8C:/CSDS 281/counter.v
+FC:/CSDS 281/counter.v
+!i122 2
+L0 10 42
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1674784216.000000
+!s107 C:/CSDS 281/counter.v|
+!s90 -reportprogress|300|-work|work|C:/CSDS 281/counter.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtest_counter
+R1
+!i10b 1
+!s100 =IUc<@@El=e05PonHFBXZ1
+R2
+IgN0:R>[339daZ7gfATZ7A2
+R3
+R0
+w1674069481
+8C:/CSDS 281/tcounter.v
+FC:/CSDS 281/tcounter.v
+!i122 3
+L0 11 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/CSDS 281/tcounter.v|
+!s90 -reportprogress|300|-work|work|C:/CSDS 281/tcounter.v|
+!i113 1
+R6
+R7
